@@ -1,6 +1,6 @@
 ## Hi there, I'm Kolipaka Ramesh 👋
 
-##Technical Lead | 
+## Technical Lead | 
 
 Here are some ideas to get you started:
 
