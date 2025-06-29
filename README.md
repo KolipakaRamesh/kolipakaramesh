@@ -13,9 +13,11 @@
 - Senior Software Engineer at 4G Information Technologies Pvt Ltd (May 2013 - Jan 2019)
 - Software Engineer at iCool Information Technologies Pvt Ltd (Jan 2010 - May 2013)
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠 Skills
+
+## 🏆 Certifications & Awards
+- Star Performer, Pactera Technologies (2020 Q1, 2022 Q4)
+- Team Excellence, Pactera Technologies (2020 Q4)
+- Team Excellence, Centific (2023 Q2)
+- Star Performer, Centific (2024 Q4)
 
