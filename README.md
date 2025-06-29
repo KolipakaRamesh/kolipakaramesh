@@ -1,5 +1,7 @@
 ## Hi there, I'm Kolipaka Ramesh 👋
 
+##Technical Lead | 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
