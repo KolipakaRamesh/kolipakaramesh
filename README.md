@@ -1,6 +1,7 @@
 ## Hi there, I'm Kolipaka Ramesh 👋
 
 ## Technical Lead | Full Stack Developer | AI/ML Enthusiast
+Technical Lead and Full Stack Developer with 15 years of experience delivering scalable, high-quality software solutions. Skilled in leading teams and managing end-to-end development across diverse technologies. Currently expanding expertise in AI and Machine Learning to build intelligent, future-ready applications. Passionate about innovation, collaboration, and driving business value through technology.
 
 Here are some ideas to get you started:
 
