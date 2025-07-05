@@ -18,7 +18,7 @@
 C#, Python, JavaScript, SQL, TypeScript
 
 **AI/ML Frameworks:**
-TensorFlow, PyTorch, LangChain, Transformers, CrewAI, Pydantic
+TensorFlow, PyTorch
 
 **Data Science Tools:**
 Pandas, NumPy, Matplotlib
