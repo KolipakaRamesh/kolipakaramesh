@@ -14,6 +14,29 @@
 - Software Engineer at iCool Information Technologies Pvt Ltd (Jan 2010 - May 2013)
 
 ## 🛠 Skills
+**Programming Languages:** 
+C#, Python, JavaScript, SQL, TypeScript
+
+**AI/ML Frameworks:**
+TensorFlow, PyTorch, LangChain, Transformers, CrewAI, Pydantic
+
+**Data Science Tools:**
+Pandas, NumPy, Matplotlib
+
+**Cloud & DevOps:**
+Azure
+
+**Other Technologies:**
+ASP.NET Core, Angular, React, NodeJS
+
+**Databases:**
+SQL Server, MySQL
+
+**Cloud Skills:**
+Microsoft Azure, Azure DevOps
+
+**Tools:**
+Cursor, VS Code, Streamlit, Gradio, GitHub, Visual Studio, SQL Server, MySQL, SQL Azure
 
 ## 🏆 Certifications & Awards
 - Microsoft Certified Technology Specialist
