@@ -30,7 +30,7 @@ Azure
 ASP.NET Core, Angular, React, NodeJS
 
 **Databases:**
-SQL Server, MySQL
+SQL Server, MySQL, PostgreSql
 
 **Cloud Skills:**
 Microsoft Azure, Azure DevOps
