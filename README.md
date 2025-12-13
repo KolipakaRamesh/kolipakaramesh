@@ -36,7 +36,7 @@ SQL Server, MySQL, PostgreSql
 Microsoft Azure, Azure DevOps
 
 **Tools:**
-Cursor, VS Code, Streamlit, Gradio, GitHub, Visual Studio, SQL Server, MySQL, SQL Azure
+AntiGravity, Cursor, VS Code, Streamlit, Gradio, GitHub, Visual Studio, SQL Server, MySQL, SQL Azure
 
 ## 🏆 Certifications & Awards
 - Microsoft Certified Technology Specialist
