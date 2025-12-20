@@ -45,4 +45,5 @@ AntiGravity, Cursor, VS Code, Streamlit, Gradio, GitHub, Visual Studio, SQL Serv
 - Team Excellence, Centific (2023 Q2)
 - Star Performer, Centific (2024 Q4)
 - Curious Mind, UPS (2025 Q4)
+- Star Performer, Centific (2025 Q4)
 
