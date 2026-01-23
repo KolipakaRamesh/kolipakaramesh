@@ -44,7 +44,7 @@ I’m actively focused on **Generative AI and Machine Learning**, building **pro
 - GitHub, AntiGravity
 - Streamlit, Gradio
   
-## 💼 Professional Experiance
+## 💼 Professional Experience
 **Technical Lead — Centific**  
 📅 _February 2019 – Present_
 - Leading full-stack development for enterprise-grade platforms
