@@ -63,7 +63,7 @@ I’m actively focused on **Generative AI and Machine Learning**, building **pro
 📘 **Google Cloud Platform (GCP) Certification — In Progress**  
 ⭐ **Star Performer** — Pactera (2020 Q1, 2022 Q4)  
 🏅 **Team Excellence** — Pactera (2020 Q4)  
-🏅 **Team Excellence** — Centific (2023 Q2)  
+🏅 **Team Excellence** — Centific (2023 Q2, 2026 Q1)  
 ⭐ **Star Performer** — Centific (2024 Q4, 2025 Q4)  
 🧠 **Curious Mind Award** — UPS (2025 Q4)
 
